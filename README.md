@@ -7,10 +7,10 @@ Fun little experiment used to help me learn Rust.
 
 ### In Game Menu:
 
-[Menu](/img/menu.png)
+![Menu](/img/menu.png)
 
 ---
 
 ### Gameplay:
 
-[Gameplay](/img/game.png)
+![Gameplay](/img/game.png)
