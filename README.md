@@ -9,8 +9,6 @@ Fun little experiment used to help me learn Rust.
 
 ![Menu](/img/menu.png)
 
----
-
 ### Gameplay:
 
 ![Gameplay](/img/game.png)
