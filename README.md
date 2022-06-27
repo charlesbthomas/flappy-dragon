@@ -1,9 +1,9 @@
 # Flappy Dragon
----
+
 
 Fun little experiment used to help me learn Rust.
 
---- 
+
 
 ### In Game Menu:
 
